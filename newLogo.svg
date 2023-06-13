@@ -1,1 +1,1 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="100" r="75" stroke="black" stroke-width="3" fill="green" /><text x="0" y="15" fill="red">svg</text></svg>
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg"><rect width="300" height="100" style="fill:"Black;stroke-width:3;stroke:rgb(0,0,0)" /><text x="0" y="15" fill="White">SOX</text></svg>
